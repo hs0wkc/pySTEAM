@@ -1,5 +1,5 @@
-# pyMEP
-Tools and information for engineering and design of technical applications with python.
+# pySTEAM
+Tools and information for engineering and design of steam applications with python.
 
 Tools :\
 	python 3.x\
